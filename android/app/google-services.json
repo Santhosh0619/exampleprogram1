@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843300343326",
+    "project_id": "exampleprogram1",
+    "storage_bucket": "exampleprogram1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843300343326:android:f9238488a73cf6d1cc680f",
+        "android_client_info": {
+          "package_name": "com.makingstuffup.exampleprogram1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3iJcFMNaPsxezhPv_HEl2K3yH10TPoJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
