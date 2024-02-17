@@ -31,7 +31,6 @@ class _LoginViewState extends State<LoginView> {
 
   @override
   Widget build(BuildContext context) {
-    print("Login View");
     return Scaffold(
       appBar: AppBar(
         title: const Text('Login'),
